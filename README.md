@@ -25,7 +25,7 @@ pip install -r requirements.txt
 루트 디렉터리에 `.env` 파일을 생성하고 발급받은 키를 등록합니다:
 
 \`\`\`env
-GEMINI_API_KEY="AIzaSy..."
+GEMINI_API_KEY="keycode.example"
 KAKAO_REST_API_KEY="your_kakao_rest_api_key"
 \`\`\`
 
